@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Staff Research Scientit at [Intuit](https://www.intuit.com/) AI Research where my focus is robust AI and generative AI, with applications to language and vision tasks. Previously, I was a Research Staff in Computer Science and Mathematics Dvision at the Oak Ridge National Laboratory. 
+I am a Staff Research Scientit at [Intuit](https://www.intuit.com/) AI Research where my focus is robust AI and generative AI, with applications to language and vision tasks. Previously, I was a Research Staff in Computer Science and Mathematics Dvision at the [Oak Ridge National Laboratory](https://www.ornl.gov/). 
 
-I received my Ph.D. from Johns Hopkins University.  My email address is jxzhangai@gmail.com 
+I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My email address is jxzhangai@gmail.com 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu)](https://github.com/anuraghazra/github-readme-stats)
 
