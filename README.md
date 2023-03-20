@@ -19,5 +19,5 @@ I am a Staff Research Scientit at [Intuit](https://www.intuit.com/) AI Research 
 
 I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My email address is jxzhangai@gmail.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jiaxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxzhangjhu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
