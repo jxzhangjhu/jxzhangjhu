@@ -1,4 +1,5 @@
-### Hi there 👋 |  ![](https://komarev.com/ghpvc/?username=jxzhangjhu)
+### Hi there, I am Jiaxin 👋! 
+
 
 <!--
 **jxzhangjhu/jxzhangjhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +22,8 @@ I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My e
 
 [![Jiaxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxzhangjhu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](https://komarev.com/ghpvc/?username=jxzhangjhu)
 
 
 <!-- [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
