@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Staff Research Scientit at [Intuit](https://www.intuit.com/) AI Research where my focus is robust AI (uncertainty, reliability, robustness and trustworthiness) and generative AI (diffusion models and large language models), with applications to multiple real-world tasks. Previously, I was a Research Staff in Computer Science and Mathematics Dvision at [Oak Ridge National Laboratory](https://www.ornl.gov/). 
+I am a Staff Research Scientit at [Intuit](https://www.intuit.com/) AI Research where my focus is **robust AI** (uncertainty, reliability, robustness and trustworthiness) and **generative AI** (diffusion models and large language models), with applications to multiple real-world tasks. Previously, I was a Research Staff in Computer Science and Mathematics Dvision at [Oak Ridge National Laboratory](https://www.ornl.gov/). 
 
 I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My email address is jxzhangai@gmail.com 
 
