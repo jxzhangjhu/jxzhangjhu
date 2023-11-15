@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a Staff Research Scientist at [Intuit](https://www.intuit.com/) AI Research where my focus is **robust AI** (uncertainty, reliability, robustness and trustworthiness) and **generative AI** (diffusion models and large language models), with applications to multiple real-world tasks. Previously, I was a Research Staff in Computer Science and Mathematics Division at [Oak Ridge National Laboratory](https://www.ornl.gov/). 
 
-I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My email address is jxzhangai@gmail.com 
+I received my Ph.D. from [Johns Hopkins University](https://www.jhu.edu/).  My personal website is https://jxzhangjhu.github.io/ and email address is jxzhangai@gmail.com 
 
 [![Jiaxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxzhangjhu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
