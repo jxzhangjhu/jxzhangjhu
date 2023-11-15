@@ -16,16 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Staff Research Scientist at [Intuit AI Research](https://www.intuit.com/technology/) where my focus is **Generative AI** (large language models (LLMs), and diffusion models), and **AI Robustness & Safety** (uncertainty, reliability, and trustworthiness) with extensive applications to complex real-world tasks. Previously, I was a Research Staff in the Computer Science and Mathematics Division at [Oak Ridge National Laboratory](https://www.ornl.gov/) where my research aims at accelerating *AI for Science* on supercomputers, such as [Summit](https://www.olcf.ornl.gov/summit/) and [Frontier](https://www.olcf.ornl.gov/frontier/). I received my Ph.D. from the [Johns Hopkins University](https://www.jhu.edu/) with an emphasis on uncertainty quantification (UQ) in 2018. 
+🔭 I am a Staff Research Scientist at [Intuit AI Research](https://www.intuit.com/technology/) where my focus is **Generative AI** (large language models (LLMs), and diffusion models), and **AI Robustness & Safety** (uncertainty, reliability, and trustworthiness) with extensive applications to complex real-world tasks. 
 
-You may find more information through my [personal website](https://jxzhangjhu.github.io) and feel free to contact me via email at jxzhangai@gmail.com. 
+🌱 Previously, I was a Research Staff in the Computer Science and Mathematics Division at [Oak Ridge National Laboratory](https://www.ornl.gov/) where my research aims at accelerating *AI for Science* on supercomputers, such as [Summit](https://www.olcf.ornl.gov/summit/) and [Frontier](https://www.olcf.ornl.gov/frontier/). 
 
-Some recent publications in LLMs (full publication list in [Google Scholar](https://scholar.google.com/citations?user=LiDm8jEAAAAJ&hl=en))
+🤔 I received my Ph.D. from the [Johns Hopkins University](https://www.jhu.edu/) with an emphasis on uncertainty quantification (UQ) in 2018. 
+
+📫 You may find more information through my [personal website](https://jxzhangjhu.github.io) and feel free to contact me via email at jxzhangai@gmail.com. 
+
+😄 Some recent publications in LLMs (full publication list in [Google Scholar](https://scholar.google.com/citations?user=LiDm8jEAAAAJ&hl=en))
 - [NeurIPS 2023] Jiaxin Zhang, Zhuohang Li, Kamalika Das, and Sricharan Kumar. [Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision](https://arxiv.org/abs/2310.20153).
 - [EMNLP 2023] Jiaxin Zhang, Zhuohang Li, Kamalika Das, Bradley Malin, and Sricharan Kumar. [SAC$`^3`$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency](https://arxiv.org/abs/2311.01740).
 
 
----
+
 
 
 [![Jiaxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzhangjhu)](https://github.com/anuraghazra/github-readme-stats)
