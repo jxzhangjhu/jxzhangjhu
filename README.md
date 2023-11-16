@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 📫 You may find more information through my [personal website](https://jxzhangjhu.github.io) and feel free to contact me via email at jxzhangai@gmail.com. 
 
 😄 Some recent publications in LLMs (full publication list in [Google Scholar](https://scholar.google.com/citations?user=LiDm8jEAAAAJ&hl=en))
-- [NeurIPS 2023] Jiaxin Zhang, Zhuohang Li, Kamalika Das, and Sricharan Kumar. [Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision](https://arxiv.org/abs/2310.20153).
-- [EMNLP 2023] Jiaxin Zhang, Zhuohang Li, Kamalika Das, Bradley Malin, and Sricharan Kumar. [SAC$`^3`$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency](https://arxiv.org/abs/2311.01740).
+- [**NeurIPS 2023**] Jiaxin Zhang, Zhuohang Li, Kamalika Das, and Sricharan Kumar. [Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision](https://arxiv.org/abs/2310.20153).
+- [**EMNLP 2023**] Jiaxin Zhang, Zhuohang Li, Kamalika Das, Bradley Malin, and Sricharan Kumar. [SAC$`^3`$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency](https://arxiv.org/abs/2311.01740).
 
 
 
