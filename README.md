@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am a Senior Staff Research Scientist at [Intuit AI Research](https://www.intuit.com/technology/) where my focus is **Generative AI** (large language models (LLMs), and diffusion models), and **AI Robustness & Safety** (uncertainty, reliability, and trustworthiness) with extensive applications to complex real-world tasks. Previously, I was a Research Staff in the Computer Science and Mathematics Division at [Oak Ridge National Laboratory](https://www.ornl.gov/) where my research aims at accelerating *AI for Science* on supercomputers, such as [Summit](https://www.olcf.ornl.gov/summit/) and [Frontier](https://www.olcf.ornl.gov/frontier/). I received my Ph.D. from the [Johns Hopkins University](https://www.jhu.edu/) with an emphasis on uncertainty quantification (UQ). 
+🔭 I am a Senior Staff Research Scientist where my focus is **Generative AI** (large language models (LLMs), and diffusion models), and **AI Robustness & Safety** (uncertainty, reliability, and trustworthiness) with extensive applications to complex real-world tasks. Previously, I was a Research Staff in the Computer Science and Mathematics Division at [Oak Ridge National Laboratory](https://www.ornl.gov/) where my research aims at accelerating *AI for Science* on supercomputers, such as [Summit](https://www.olcf.ornl.gov/summit/) and [Frontier](https://www.olcf.ornl.gov/frontier/). I received my Ph.D. from the [Johns Hopkins University](https://www.jhu.edu/) with an emphasis on uncertainty quantification (UQ). 
 
 📫 You may find more information through my [personal website](https://jxzhangjhu.github.io) and feel free to contact me via email at jxzhangai@gmail.com. 
 
