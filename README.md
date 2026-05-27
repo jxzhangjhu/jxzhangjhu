@@ -23,9 +23,6 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
 - **Long-horizon Agents & Evaluation**  
   Tool use, planning, trajectory-level evaluation, deep research agents, evidence grounding, failure attribution, and enterprise-scale agent benchmarks.
 
-- **Scalable ML Systems**  
-  Distributed training, RL infrastructure, large-scale evaluation pipelines, and production-oriented LLM systems.
-
 ---
 
 ## Selected Work
@@ -43,11 +40,9 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
   A trajectory-level calibration framework for diagnosing and improving the reliability of long-horizon agents.
 
 - [**[ACL2026] From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models**](https://arxiv.org/abs/2601.15690)
-- **SAC³: Semantic-aware Cross-check Consistency**  
   The evolution of uncertainty from a passive diagnostic metric to an active control signal guiding real-time model behavior
 
 For the full list of publications, please see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) or [homepage](https://jxzhangjhu.github.io/).
-
 
 ---
 
