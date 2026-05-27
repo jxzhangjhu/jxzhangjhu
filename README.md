@@ -39,8 +39,7 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
 - [**[ICML2026] Agentic Confidence Calibration**](https://arxiv.org/abs/2601.15778)  
   A trajectory-level calibration framework for diagnosing and improving the reliability of long-horizon agents.
 
-- [**[ACL2026] From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models**](https://arxiv.org/abs/2601.15690)
-- 
+- [**[ACL2026] From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models**](https://arxiv.org/abs/2601.15690)      
   The evolution of uncertainty from a passive diagnostic metric to an active control signal guiding real-time model behavior
 
 For the full list of publications, please see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) or [homepage](https://jxzhangjhu.github.io/).
