@@ -8,7 +8,7 @@ My research asks a simple question:
 
 I build methods, environments, and evaluation frameworks that turn **uncertainty, confidence, and consistency** into first-class training signals for reliable and self-improving AI systems.
 
-[Homepage](https://jxzhangjhu.github.io/) · [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [X/Twitter](YOUR_TWITTER_URL) · [Email](mailto:jxzhangai@gmail.com)
+[Homepage](https://jxzhangjhu.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=LiDm8jEAAAAJ&view_op=list_works&sortby=pubdate) · [LinkedIn](https://www.linkedin.com/in/jiaxin-zhang-1425289b/) · [X/Twitter](https://x.com/jxzhangjhu) · [Email](mailto:jxzhangai@gmail.com)
 
 ### Research Focus
 
