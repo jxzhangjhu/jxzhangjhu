@@ -34,14 +34,6 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
 
 For the full list of publications, please see my [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) or [homepage](https://jxzhangjhu.github.io/).
 
-### Background
-
-Previously, I was a founding research lead at Intuit AI Research, where I worked on reliable LLM systems, post-training, hallucination detection, prompt optimization, and production evaluation platforms.
-
-Before that, I was a Staff Research Scientist at Oak Ridge National Laboratory, where I worked on large-scale distributed ML, AI for Science, and training infrastructure on leadership-class supercomputers.
-
-I received my Ph.D. from Johns Hopkins University.
-
 ### Contact
 
 I am interested in reliable AI agents, agentic RL, post-training, calibration, uncertainty, scalable evaluation, and self-improving AI systems. Feel free to reach out via [email](mailto:jxzhangai@gmail.com) or visit my [homepage](https://jxzhangjhu.github.io/).
