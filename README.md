@@ -1,6 +1,6 @@
 ### Hi, I'm Jiaxin Zhang 👋
 
-I am a Research Lead at Salesforce AI Research, working on **reliable long-horizon AI agents**, **agentic reinforcement learning**, and **calibrated post-training**.
+I am an AI Researcher, working on **reliable long-horizon AI agents**, **agentic reinforcement learning**, and **calibrated post-training**.
 
 My research asks a simple question:
 
