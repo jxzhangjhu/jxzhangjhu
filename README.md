@@ -21,11 +21,11 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
 
 ### Selected Work
 
-- **Prospective Hindsight**  
+- [**[NeurIPS2026] Prospective Hindsight**]  
   Self-calibrating reinforcement learning via prediction–reality gaps, aligning an agent’s action-time self-belief with verifier outcomes.
 - [**CaOPD: Calibration-aware On-policy Distillation**](https://arxiv.org/abs/2604.16830)  
   Decouples capability learning from honest confidence calibration in LLM post-training.
-- [**Agentic Uncertainty Quantification**](https://arxiv.org/abs/2601.15703)  
+- [**[EMNLP2026] Agentic Uncertainty Quantification**](https://arxiv.org/abs/2601.15703)  
   Turns verbalized uncertainty into active control signals for memory, reflection, and long-horizon execution.
 - [**[ICML2026] Agentic Confidence Calibration**](https://arxiv.org/abs/2601.15778)  
   A trajectory-level calibration framework for diagnosing and improving the reliability of long-horizon agents.
