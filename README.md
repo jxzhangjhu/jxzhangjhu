@@ -21,7 +21,7 @@ I build methods, environments, and evaluation frameworks that turn **uncertainty
 
 ### Selected Work
 
-- [**[NeurIPS2026] Prospective Hindsight**]  
+- [**[NeurIPS2026] Prospective Hindsight**](https://arxiv.org/abs/2604.16830)  
   Self-calibrating reinforcement learning via prediction–reality gaps, aligning an agent’s action-time self-belief with verifier outcomes.
 - [**CaOPD: Calibration-aware On-policy Distillation**](https://arxiv.org/abs/2604.16830)  
   Decouples capability learning from honest confidence calibration in LLM post-training.
